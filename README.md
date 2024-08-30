@@ -2,6 +2,16 @@
 
 Palestras já apresentadas
 
+# [Otimizando sua aplicação PHP em produção com cache de bytecode](https://speakerdeck.com/renandelmonico/devpr-otimizando-sua-aplicacao-php-em-producao-com-cache-de-bytecode)
+
+Data: 29/08/2024
+
+Local: Trade Technology
+
+Organização: DevPR
+
+Evento: Ingá.PHP
+
 # [Tunando seu PHP em produção com cache de bytecode](https://speakerdeck.com/renandelmonico/tunando-seu-php-em-producao-com-cache-de-bytecode)
 
 Data: 26/10/2022 e 03/11/2022
