@@ -2,6 +2,16 @@
 
 Palestras já apresentadas
 
+# [Teste de mutação: testando os seus testes](https://speakerdeck.com/renandelmonico/devpr-teste-de-mutacao-testando-os-seus-testes)
+
+Data: 30/10/2024
+
+Local: Incubadora Tecnológica de Maringá - Maringátech
+
+Organização: DevPR
+
+Evento: Ingá.PHP
+
 # [Otimizando sua aplicação PHP em produção com cache de bytecode](https://speakerdeck.com/renandelmonico/devpr-otimizando-sua-aplicacao-php-em-producao-com-cache-de-bytecode)
 
 Data: 29/08/2024
