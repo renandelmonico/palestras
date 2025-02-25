@@ -2,6 +2,14 @@
 
 Palestras já apresentadas
 
+# [Otimizando sua aplicação PHP em produção com cache de bytecode](https://speakerdeck.com/renandelmonico/php-conference-otimizando-sua-aplicacao-em-php-com-cache-de-bytecode)
+
+Data: 07/12/2024
+
+Local: online
+
+Evento: PHP Conference 2024
+
 # [Teste de mutação: testando os seus testes](https://speakerdeck.com/renandelmonico/devpr-teste-de-mutacao-testando-os-seus-testes)
 
 Data: 30/10/2024
